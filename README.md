@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your  project
 
 ## Project info
@@ -71,3 +72,7 @@ Yes, you can!
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 
+=======
+# Beacon
+One-Stop Personalized Career &amp; Education Advisor platform
+>>>>>>> b19379bc78d7a77e74884c24a96a8850e050385a
